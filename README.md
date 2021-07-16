@@ -1,11 +1,11 @@
 # Bookmarks 
 Useful bookmarks over time <br>
 Secret Scanners 
-https://github.com/Skyscanner/whispers 
+https://github.com/Skyscanner/whispers <br>
 https://www.npmjs.com/package/git-secret-scanner 
 
 DAST 
-https://github.com/marketplace/actions/owasp-zap-baseline-scan 
+https://github.com/marketplace/actions/owasp-zap-baseline-scan <br>
 https://portswigger.net/burp/enterprise 
 
 SAST 
